@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">MovieKatalog2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara Tv</string>
+    <string name="This_is_tab">Ini Adalah Tab</string>
+    <string name="name_movie">Judul Film</string>
+    <string name="desc">Deskripsi Film</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_8">8</string>
+    <string name="judul" translatable="false">Judul</string>
+    <string name="txt_Genre">Kategori</string>
+    <string name="txt_rating">Penilaian</string>
+    <string name="txt_sinposis">Sinopsis</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+
+    <string-array name="data_name">
+        <item>Sky Castle</item>
+        <item>Arthdal Chronicles</item>
+        <item>Vagabond</item>
+        <item>When The Camellia Blooms</item>
+        <item>Hotel Del Luna</item>
+        <item>Search: WWW</item>
+        <item>The Fiery Priest</item>
+        <item>Kingdom</item>
+        <item>Chief of Staff 1 dan 2</item>
+        <item>Romance is a Bonus Book</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Drama</item>
+        <item>Fantasi,Romantis</item>
+        <item>Mata-Mata,Thriller</item>
+        <item>Romantis,Komedi</item>
+        <item>Romansa Romantis</item>
+        <item>Romantis</item>
+        <item>Komedi</item>
+        <item>Thriller,Horror</item>
+        <item>Drama Politik</item>
+        <item>Komedi Romantis</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>8.8</item>
+        <item>7.7</item>
+        <item>8.7</item>
+        <item>8.0</item>
+        <item>8.4</item>
+        <item>8.7</item>
+        <item>8.6</item>
+        <item>8.2</item>
+        <item>8.3</item>
+        <item>8.7</item>
+
+    </string-array>
+
+
+    <string-array name="data_desc">
+        <item>Ada banyak drama tentang siswa sekolah menengah, tapi hanya sedikit yang mengatasi beban siswa Korea dengan cara yang menarik seperti Sky Castle. \n\n Drama ini menempatkan beberapa keluarga kaya di bawah mikroskop, mengungkapkan semua fasad dan skema rumit yang mereka bangun untuk memastikan mereka tidak pernah kehilangan muka dengan mengharuskan anak-anak mereka masuk ke salah satu universitas paling bergengsiSementara banyak dari kita mungkin jauh dari dunia para elit, kamu tidak perlu menjadi kaya untuk memahami bagaimana terperangkapnya karakter dalam "SKY Castle", budak kehidupan materialistis dan megah di mana di bawah hampir setiap tindakan terletak sebuah motif tersembunyi.</item>
+        <item>Arthdal Chronicles bertempat di kota mitos Arthdal, ibu kota kerajaan Gojoseon. \n\n Ini menceritakan kisah para pahlawan yang membuat legenda mereka sendiri di tanah kuno yang disebut Arth. \n\n Song Joong Ki memerankan Eun Seom, putra bangsawan Asahon (Choo Ja Hyun) dan anggota suku Wahan. Kim Ji Won akan memerankan Tan Ya, penjaga dan dukun suku Wahan. \n\n Sementara itu, Jang Dong Gun akan memainkan peran Ta Gon, putra seorang pemimpin suku.</item>
+        <item>Vagabond adalah drama mata-mata yang menceritakan tentang seorang pria yang mengungkap kebenaran gelap dan korupsi tersembunyi di balik kecelakaan pesawat misterius. \n\n Lee Seung Gi memainkan peran Cha Dal Gun, seorang stuntman yang mengagumi Jackie Chan dan mimpi mendominasi industri film aksi. \n\n Suzy akan membintangi drama sebagai Go Hae Ri, seorang agen rahasia yang bekerja menyamar untuk Kedutaan Besar Korea di Maroko. \n\n Keduanya secara tak terduga dipertemukan setelah sebuah kecelakaan pesawat, dan mereka bersatu untuk mengungkap kebenaran tersembunyi.</item>
+        <item>When the Camellia Blooms menceritakan tentang kisah hidup Dong-baek (Gong Hyo-jin) sebagai seorang orang tua tunggal dari satu anak laki-laki di daerah baru. Di sana, ia membuka bisnis yang tak diduga warga sekitar. \n\n Dong-baek tak hanya memiliki hubungan dengan Yong-sik. Ia pun terlibat dalam permasalahan rumit dengan seorang pria jahat. \n\n Aktor Kim Ji-suk turut meramaikan drama When the Camellia Blooms. Ia berperan sebagai Kang Jong-ryeol, seorang atlet yang pernikahannya bermasalah. \n\n Di awal episode pertama, sutradara Cha Young-hoon tak ragu menunjukkan misteri dan kekelaman drama ini. Namun hanya dalam hitungan menit, suasana langsung berubah menyenangkan dengan menunjukkan aksi Kang Ha-neul yang membuat penonton gemas. \n\n </item>
+        <item>Bergenre romantis, horor, dan fantasi, Hotel Del Luna menceritakan kisah seorang pengusaha hotel elit bernama Goo Chan Sung (diperankan oleh Yeo Jin Goo) yang akhirnya menjalankan hotel berhantu. Hotel berhantu ini dimiliki oleh Jang Man Wol (diperankan oleh IU) yang cantik tapi pemarah. Jang Man Wol ini hidup di bawah kutukan sebagai hukuman atas kesalahan masa lalunya.</item>
+        <item>Search: WWW adalah drama romantis yang mengisahkan kehidupan cinta dari tiga wanita karier yang bekerja di perusahaan mesin pencari teratas Korea. \n\n Ini merupakan drama comeback Im Soo Jung setelah 2 tahun. \n Im Soo Jung akan berperan sebagai Bae Ta Mi, seorang manajer strategis di situs portal Korea No.1 Unicorn. \n Sementara Jang Ki Yong akan berperan sebagai Park Mo Gun, seorang komposer jenius. \n\n Drama ini romantis ini sukses membuat penonton terhanyut dengan kecerdasan dan chemistry para pemainnya hingga diganjar rating tinggi sebanyak 4 persen untuk episode terakhirnya.</item>
+        <item>The Fiery Priest menceritakan kisah tentang pendeta pemarah dan detektif lemah yang bergabung untuk menyelesaikan kasus pembunuhan seorang pendeta tua. Drama ini ditulis oleh penulis Park Jae Bum yang menulis drama seperti Chief Kim dan Good Doctor, dan disutradarai oleh Lee Myung Woo yang mengarahkan drama seperti Whisper dan Punch.Kim Nam Gil memerankan pendeta Katolik Kim Hae Il, yang memiliki Gangguan Rasa Marah, Gangguan Obsesif-Kompulsif, dan Gangguan Paska-Trauma Pahit. Cara bicaranya yang sinis dan pesimistis biasanya membuat orang-orang di sekitarnya mati rasa. Namun, keterampilan analitis, wawasan, dan penilaiannya terhadap sesama manusia sangat tajam dan akurat.Kim Hae Il sebenarnya adalah agen khusus top pemerintah. Dia berada di tim pasukan khusus anti-terorisme dari National Intelligence Service 10 tahun yang lalu.Kim Sung Kyun akan berperan sebagai Goo Dae Young, seorang detektif yang bekerja di Departemen Kejahatan Kekerasan Kantor Polisi Gudam. Dia tidak ingin terlihat lemah, jadi dia suka menggertak.Goo Dae Young adalah pria yang berhati lembut yang suka nangis. Meski dulunya tegas, dia menjadi pengecut setelah rekannya meninggal tiga tahun lalu.Honey Lee akan berperan sebagai jaksa Park Kyung Sun di Kantor Kejaksaan Distrik Pusat Seoul. Dia terkenal patuh, cantik dan pintar.</item>
+        <item>Kingdom adalah drama thriller misteri berjumlah 6 episode dengan latar era Joseon. Bersetting di era kerajaan, Kingdom berkisah tentang seorang pangeran yang mencoba menyelamatkan orang-orang dari epidemi atau wabah zombie yang mewabah di istana dan sekitarnya.Antisipasi untuk musim kedua segera meroket karena kengerian klimaks yang ditayangkan di akhir season pertama. Seri ini telah menyelesaikan syuting untuk musim kedua, yang akan tayang perdana pada tahun 2020.</item>
+        <item>Drama yang tayang perdana pada 14 Juni 2019 ini bercerita tentang para politisi dan menunjukkan persaingan licik dan berbahaya yang terjadi jauh dari mata publik. Chief of Staff dibintangi Lee Jung Jae, Shin Min Ah, Jung Jin Young, Kim Kap Soo, Jung Woong In, Lee Elijah, dan Kim Dong Jun. Mereka menerima banyak pujian karena penggambaran realistisnya tentang politik.Banyak pemirsa menyatakan kekecewaannya bahwa drama itu berakhir hanya dalam 10 episode. Nggak heran, Chief of Staff 2 yang tayang bulan November 2019 langsung dibanjiri antusiasme tinggi yang berakhir dengan rating memuaskan 5,3 persen.</item>
+        <item>Romance is a Bonus Book atau Romance Supplement mengambil setting di sebuah perusahaan penerbitan dan menceritakan kisah hangat dari mereka yang membuat buku. Antisipasi pemirsa terhadap drama ini cukup tinggi karena ini akan menjadi drama comeback Lee Na Young dalam sembilan tahun dan drama terakhir Lee Jong Suk sebelum wamil.Kang Dan Yi adalah copywriter yang berbakat dan terkenal tetapi sering diabaikan. Cha Eun Ho adalah pemimpin redaksi termuda dari perusahaan penerbitan Gyeo Ru dan seorang idola dunia sastra. Benih-benih cinta mulai tumbuh saat Kang Dan Yi mencoba mendapatkan kesempatan kedua dalam kariernya.</item>
+    </string-array>
+
+    <array name="data_photto">
+        <item>@drawable/sky_castle</item>
+        <item>@drawable/arthda_chronicles</item>
+        <item>@drawable/vagabond</item>
+        <item>@drawable/camellia_blooms</item>
+        <item>@drawable/hotel</item>
+        <item>@drawable/www</item>
+        <item>@drawable/fiery</item>
+        <item>@drawable/kingdom</item>
+        <item>@drawable/chief</item>
+        <item>@drawable/romance_is</item>
+    </array>
+
+    <array name="data_photo_movie">
+        <item>@drawable/captainmarvel</item>
+        <item>@drawable/endgame</item>
+        <item>@drawable/toys</item>
+        <item>@drawable/lion</item>
+        <item>@drawable/spiderman</item>
+        <item>@drawable/aladdin</item>
+        <item>@drawable/godzila</item>
+        <item>@drawable/doctor</item>
+        <item>@drawable/terminator</item>
+        <item>@drawable/charlie_angels</item>
+
+    </array>
+
+
+    <string-array name="data_nama_movie">
+        <item>Captain Marvel</item>
+        <item>Avangers End Game</item>
+        <item>Toy Story 4</item>
+        <item>The Lion King</item>
+        <item>Spider Man Far From Home </item>
+        <item>Aladdin</item>
+        <item>Godzilla: King of the Monsters</item>
+        <item>Doctor Sleep</item>
+        <item>Terminator: Dark Fate</item>
+        <item>Charlies Angels</item>
+    </string-array>
+
+    <string-array name="data_genre_movie">
+        <item>Aksi, PahlawanSuper, Fantasi</item>
+        <item>Aksi,Petualangan,Fiksi Ilmiah</item>
+        <item>Animasi,Petualangan,Komedi,Fantasi</item>
+        <item>Animasi,Petualangan,Drama,Musikal</item>
+        <item>Aksi,Petualangan,Fiksi Ilmiah</item>
+        <item>Petualangan,Fantasi,Musikal,Romantis</item>
+        <item>Aksi,Petualangan,Fantasi,Fiksi Ilmiah</item>
+        <item>Drama,Fantasi,Horror,Thriller</item>
+        <item>Aksi,Petualangan,Fiksi Ilmiah</item>
+        <item>Aksi,Petualangan,Komedi</item>
+    </string-array>
+
+    <string-array name="data_ratig_movie">
+        <item>7.8</item>
+        <item>8.5</item>
+        <item>7.9</item>
+        <item>6.9</item>
+        <item>7.6</item>
+        <item>7.0</item>
+    <item>6.1</item>
+    <item>7.5</item>
+    <item>6.3</item>
+    <item>4.2</item>
+
+</string-array>
+
+
+<string-array name="data_desc_movie">
+<item>Pada tahun 1995, Carol Danvers (Brie Larson), mengalami kecelakaan hebat. Namun, takdir seperti mengubah kehidupannya. Entah dari mana, kemudian Carol Danvers kemudian mendapatkan kekuatan super. \n\n Kekuatan yang membuat takdirnya tidak lagi hanya menjadi manusia biasa. Takdir juga yang mempertemukan Carol dengan Nick Fury. Namun, tidak semua hal harus berjalan mudah. \n\n Carol harus bertemu dengan hal-hal yang mengejutkan. Lalu sebenarnya bahaya apa yang akan dihadapi oleh Carol Danvers alias Captain Marvel pada film ini? Ancaman dari bumi atau justru serangan dari luar angkasa? \n\n Bahaya apa yang sebenarnya akan dihadapi oleh Carol Denver? Apa arti kekuatan yang dimilikinya bagi para superhero Avengers yang kini hidup di masa depan.\n\nSeperti apa hubungan Captain Marvel alias Carol Denver dengan cerita film Avengers: Endgame? \n\n Untuk menjawab rasa penasaran kamu, tonton dulu film Captain Marvel yang akan tayang di bioskop Indonesia mulai tanggal 6 Maret 2019 mendatang. \n\n </item>
+<item>Marvel Studio dan Walt Disney Pictures bakal rilis Film Avengers: Endgame. Film yang menghadirkan hampir semua Avengers ini akan tayang di seluruh bioskop Tanah Air mulai 24 April 2019. \n\n Setelah peristiwa yang memusnahkan setengah dari populasi Bumi di Avengers: Infinity War (2018), kisah akan berlanjut saat Avengers yang tersisa berkumpul sekali lagi untuk melawan Thanos (Josh Brolin). \n\n Namun Kesedihan, keputusasaan dan ketidakberdayaan masih tetap menyelimuti para pahlawan super. Trailer Avengers: Endgame didominasi potret "kehancuran" di bumi usai Thanos memusnahkan separuh populasi dunia. \n\n Warna hitm putih mendominasi cuplikan film besutan Joe dan Anthony Russo tersebut. Dalam sinopsis Avengers: Endgame, para Avengers pun berusaha untuk memulihkan tatanan alam semesta. \n\n Avengers yang tersisa seperti Steve Rogers/Captain America (Chris Evans), Natasha Romanoff/Black Widow (Scarlett Johansson) hingga Thor (Chris Hemsworth) mendapat bantuan dari Carol Danvers/Captain Marvel (Brie Larson). \n\n Hawkeye (Jeremy Renner) yang tak hadir saat Infinity War juga bakal tampil di Avengers: Endgame dengan busur dan panah andalannya. Scott Lang/Ant-Man (Paul Rudd) pun hadir membantu para Avengers yang tersisa untuk melawan Thanos. \n\n Marvel Studio bakal menghadirkan pertarungan Avengers melawan Thanos selama tiga jam. Dikutip dari Hollywood Reporter, durasi tersebut menjadikannya sebagai film superhero terpanjang yang diproduksi Marvel Cinematic Universe (MCU). \n\n Sayangnya, Avengers: Endgame akan menjadi cameo terakhir bagi pencipta para superhero, Stan Lee. Hal ini diungkapkan sutradara Endgame, Joe Russo. Endgame dianggap sebagai film yang pas untuk jadi cameo terakhir Lee. "Aku meyakini cameo terakhir Lee adalah Endgame," kata Russo. \n\n</item>
+<item>Petualangan Woody (Tom Hanks), Buzz Light year (Tim Allen), dan geng mainannya masih berlanjut. Dalam Toy Story 4 yang tayang di bioskop Indonesia hari ini Jumat (21/6/2019), Woody dan kawan-kawan akan dipertemukan dengan teman-teman dan tempat yang baru. \n\n Film berdurasi 1 jam 40 menit yang disutradarai Josh Cooley ini hadir untuk menjawab penantian penggemar selama sembilan tahun. Sekuel Toy Story ini merupakan animasi unggulan dari Disney Pixar yang telah eksis dari 20 tahun yang lalu. \n\n Dalam trailer Toy Story 4, Woody mengenalkan Forky sebagai mainan baru Bonnie dan betapa pentingnya Forky (Tony Hale) bagi Bonnie. Woody memberitahu Forky yang merasa minder di antara para mainan lainnya, ia harus bangga hidup sebagai mainan. \n\n Kamu akan membuat memori yang akan kamu ingat seumur hidupmu," ujar Woody. \n\n Dilansir Variety, dalam perjalanan keluarga Bonnie membawa semua mainannya, Forky yang merasa dirinya bukan mainan, lalu melarikan diri. Di situ awal mula petualangan baru Woody dan para mainan di Toy Story 4. \n\n Woody akan bertemu dengan teman lama yang telah lama hilang Bo Peep (Annie Pots). Bo Peep mencoba meyakinkan Woody untuk meninggalkan Bonnie, tetapi Woody berusaha meyakinkan dirinya. \n\n “Aku dibuat untuk membantu anak ini. Aku tidak ingat itu sesulit ini,” ujar Woody. \n\n Ketika Woody dan Bo mendiskusikan masa lalu, mereka mulai menyadari dunia mereka benar-benar berbeda dari segi prinsip dan keinginan hidup mereka sebagai mainan. \n\n Petualangan Woody dan Bo, serta perjalanan kawan-kawan Woody dalam menemukannya menjadi inti kisah dalam film ini. \n\n Pengisi suara Toy Story 4 dilakukan oleh Tom Hanks sebagai Woody, Tim Allen sebagai Buzz Lightyear, Annie Potts sebagai Bo Peep, Joan Cusack sebagai Jessie, Blake Clark sebagai Slinky Dog, Wallace Shawn sebagai Rez, Keegan Michael Key sebagai Ducky, Jordan Peele sebagai Bunny, dan Keanu Reeves sebagai Duke Caboom. \n\n</item>
+<item>Film yang disutradarai Jon Favreau ini menceritakan tentang perjalanan seorang singa kecil bernama Simba yang lahir sebagai raja selanjutnya menggantikan Mufasa, ayahnya. Simba sangat mengidolakan ayahnya. \n\n Namun, tidak semua hewan merayakan kelahiran Simba. Scar, saudara laki-laki Mufasa, memiliki rencana sendiri. Ia merencanakan pertempuran memperebutkan ‘Batu Kehormatan’ dengan menggunakan pengkhianatan, pengerusakan, tragedi, dan drama yang membuat Simba harus meninggalkan rumah dan terasingkan. \n\n Dengan bantuan dari sepasang teman barunya, Simba harus mencari cara untuk tumbuh dan merebut kembali apa yang menjadi haknya. \n\n Dikutip dari ScreenRant film ini merupakan cara Disney memberikan penghormatan bagi film pendahulunya, yakni The Lion King versi animasi. \n\n Dikutip dari ScreenRant film ini merupakan cara Disney memberikan penghormatan bagi film pendahulunya, yakni The Lion King versi animasi. \n\n Disney ingin mempersembahkan kualitas terbaik bagi film live action ini termasuk dalam pemilihan sutradara, teknologi animasi, dan juga para pengisi suara. \n\n Para pengisi film ini adalah Donald Glover sebagai Simba, Beyonce Knowles-Carter sebagai Nala, James Earl Jones sebagai Mufasa, Chiewetel Ejiofor sebagai Scar, Seth Rogen sebagai Pumba, dan Billy Eichner sebagai Timon. \n\n Film ini akan menggunakan teknologi virtual reality canggih. Tim animator yang bekerja di balik film ini mengatakan mereka mampu menghilangkan efek pengganggu di setiap adegan. Bahkan, Favreau membuat jejak set yang sama persis seperti film animasinya yang rilis pada 1994. \n\n Studi yang ia lakukan tidak hanya soal latar, tetapi juga animasi dan pencahayaan. Hasilnya, membuat setting dan animasi terlihat megah dan nyata seperti yang dirilis pada trailer baru-baru ini. \n\n Studi yang ia lakukan tidak hanya soal latar, tetapi juga animasi dan pencahayaan. Hasilnya, membuat setting dan animasi terlihat megah dan nyata seperti yang dirilis pada trailer baru-baru ini. \n\n "Sangat menyenangkan bisa menjadi bagian dari ini, di mana kita bisa mengatakan, ‘Hei, mari kita lihat seperti apa bentuk daun, atau bagaimana air bergerak, atau cara angin meniup rumput dan membuat gambar sangat indah’," kata Favreau. \n\n </item>
+<item>Semenjak bergabung dengan Avengers dan terlibat pada saat Avengers: Endgame, Spider-Man menghadapi ancaman baru di dunia yang telah berubah. \n\n Dalam film besutan Jon Watts ini, Spider-Man atau Peter Parker (Tom Holland) sibuk membantu kepolisian New York menumpas kejahatan. \n\n Usai membantu para polisi New York, Peter Parker berencana untuk liburan bersama teman-teman ke Eropa. \n\n Parker memutuskan tidak membawa kostumnya saat ia melakukan perjalanan dengan teman-teman sekolahnya, MJ (Zendaya), Ned (Jacob Batalon), Betty (Beras Angourie) dan Flash (Tony Revolori). \n\n Liburan Parker dan kawan-kawan "rusak" oleh ancaman teror yang menyerang kota-kota di bumi. Nick Fury (Samuel L. Jackson) berusaha menghubungi Parker untuk memberi informasi terkait ancaman baru di Eropa, sayangnya Parker tak ingin menanggapi telepon dari Nick Fury. \n\n Meski Nick Fury sudah menjelaskan mengenai bahaya dan ancaman yang mengintai bumi, Parker tetap berkukuh untuk tak terlibat. \n\n Selain petualangannya manusia laba-laba ini di Benua Biru, Spider-Man: Far From juga menampilkan Parker yang memendam rindu pada sosok Tony Stark atau Iron Man, dalam trailer yang diunggah Sony Picture Entertainment. \n\n Berdurasi 130 menit, Spider-Man: Far From Home akan dibintangi oleh Tom Holland, Samuel L. Jackson, Zendaya, Cobie Smulders. \n\n</item>
+<item>Film Aladdin 2019 berkisah tentang seorang anak jalanan yang hidup bersama teman monyetnya yang bernama Abu, iya jatuh cinta kepada putri kerajaan yang bernama Jasmine. karena perbedaan kastah dan harta ia pun sempat mendapatkan penolakan, tidak berputus asa, aladdin pun mencari cara agar ia bisa menjadi seorang pangeran. \n\n Keberuntunganpun berpihak kepada Aladdin, iya mendapatkan lampu ajaib yang di dalamnya terdapat Jin yang bisa mengabulkan semua permintaan. iya mengunakan lampu ajaib tersebut untuk merubah dirinya menjadi seorang pangeran guna memenangkan hati Putri Jasmine. namun iya juga harus menjaga lampu tersebut dari tangan Wazir jahat, Jafar dan burung beo yang ingin menguasai kerajaan Agrabah serta kekuatan memukau. \n\n </item>
+<item>Ketika Bumi mengalami bencana besar, para ilmuwan percaya bahwa kondisi bumi bisa diselamatkan oleh mahluk raksasa yang disebut Titans \n\n Ketika Bumi mengalami bencana besar, para ilmuwan percaya bahwa kondisi bumi bisa diselamatkan oleh mahluk raksasa yang disebut Titans. \n\n Emma Russell ( Vera Farmiga ) adalah ahli paleobiologi yang bekerja untuk agensi crypto-zoological Monarch. Ia percaya bahwa manusia dan Titans dapat hidup berdampingan secara damai. \n\n Kini tugasnya adalah mencari Titans yang bisa membantu Bumi, karena tidak semua Titans dapat menyembuhkan, ada juga yang bisa membuatnya semakin parah dan merusak. \n\n Namun dii sebuah pulau yang tidak diketahui dan jauh dari pengawasan satelit, Agensi peneliti geografi Monarch harus berhadapan dengan sekelompok monster seukuran dewa, yakni Kong, Godzilla dan Ghidorah. \n\n Pada sesi satu ini, Kong adalah monster raksasa yang pertamakali bertabrakan dengan pesawat para peneliti. Dalam film pertamanya Kong berhasil mengalahkan Skullcrawler terbesar dan menyelamatkan para penjelajah dan penduduk Skull Island lainnya. \n\n Pada film kelanjutannya, Godzilla 2, agen Monarch lantas dipertemukan dengan monster kuno lainnya yakni Raja Ghidorah berkepala tiga. \n\n Raja Ghidorah merupakan musuh bebuyutan Godzilla. \n\n Ketika spesies super kuno ini, yang dianggap sebagai mitos belaka, bangkit kembali, mereka semua bersaing untuk supremasi, membuat keberadaan manusia sangat tergantung dalam keseimbangan. \n\n Akankah para manusia itu bisa menyelamatkan diri dari serangan monster kuno? \n\n </item>
+<item>Doctor Sleep akan berkisah tentang Danny Torrance dewasa yang tengah berjuang untuk menemukan kedamaian. Sebelumnya dia mengalami trauma saat melihat ayahnya menjadi gila paska kejadian di film pertamanya.\n\n Perjuangannya menuju ketenangan menjadi rumit dan menyeramkan ketika dia bertemu Abra, seorang perempuan yang bekerja di sebuah rumah sakit. Abra seorang pemberani dan memiliki bakat yang disebut sebagai "sinar". Sementara Danny sendiri memiliki kekuatan psikis tetapi juga menjadi pemabuk seperti ayahnya. \n\n Mereka berdua akan menghadapi Rose the Hat, peran antagonis tanpa belas kasihan, beserta para pengikutnya, The True Knot. Pertempuran antara hidup dan mati ini mendesak Danny untuk memanggil kekuatan tersembunyi dari dalam dirinya yang sekaligus memaksa dia untuk menghadapi kenangan dari masa lalunya yang mengerikan. \n\n Film ini diperankan oleh Ewan McGregor, Rebecca Ferguson, dan Kyliegh Curran. Menurut Mike Flanagan selaku sutradara, film ini disebut tak hanya mengembalikan kengerian dari film pertamanya, tetapi juga momen - momen ikonik yang ada di film tersebut. \n\n "Kami menggunakan banyak pelajaran yang Kubrick ajarkan kepada kami tentang bagaimana membuat thriller psikologis," kata Mike. "Dengan sebuah cara yang lebih memberikan atmosfir mengerikan dan menegangkan ketimbang dengan apa yang sudah seringkali kita saksikan di sejumlah film horor lainnya," katanya lagi. \n\n</item>
+<item>Film Hollywood Terminator: Dark Fate merupakan sekuel terbaru dari franchise Terminator. Film ini berfokus pada upaya sekelompok wanita untuk mengalahkan robot pembunuh dan menyelamatkan masa depan umat manusia. \n\n Aktris senior Linda Hamilton masih memerankan Sarah Connor. Business Insider mewartakan, Hamilton kembali mengulangi perannya seperti di film-film Terminator sebelumnya. Ia kembali beradu akting dengan Arnold Schwarzenegger, yang menjadi Terminator hampir di semua franchise. \n\n Latar waktu Dark Fate diambil 2 dekade setelah Sarah Connor mencegah Judment Day, mengubah masa depan, dan menulis ulang nasib umat manusia. Dani Ramos (Natalia Reyes) menjalani kehidupan sederhana di Meksiko bersama saudara lelakinya (Diego Boneta) dan ayahnya. \n\n Hidup Dani berjalan baik hingga datang seorang Terminator seri Rev-9 (Gabriel Luna) yang sangat canggih dan datang dari masa depan untuk membunuhnya. \n\n Kelangsungan hidup Dani bergantung pada kekuatannya bersama Grace (Mackenzie Davis), Grace, seorang manusia super yang juga dikirim dari masa depan dan seorang Sarah Connor (Linda Hamilton). Keduanya membantu Dani melawan Terminator itu. \n\n Rev 9 dikirim ke masa lalu untuk menghentikan manusia bangkit dan mengambil alih Skynet. Rev 9 tampak seperti kombinasi dari T-800 dan T-1000, seperti yang terlihat dalam The Terminator dan Terminator 2: Judgment Day. Tapi anehnya, Rev 9 lebih mirip dengan T-X, yang terakhir kali terlihat di Terminator: Rise of the Machines. \n\n Rev 9 mampu mengubah bentuk tubuhnya dengan begitu mudah. Mirip dengan jenis T-1000, tubuh Rev 9 dapat pulih dengan segera meski dihujam peluru maupun senjata tajam berkali-kali, mirip seperti membelah air raksa. \n\n Namun, berbeda dengan terminator jenis lain, Rev 9 dapat menciptakan kloning dirinya dalam sekejap. Ketika Rev-9 tanpa ampun menghancurkan segala sesuatu dan semua orang di jalurnya untuk berburu Dani, ketiganya kemudian berharap pada T-800 (Arnold Schwarzenegger). Terminator dari masa lalu Sarah yang mungkin menjadi harapan terbaik dan terakhir mereka. \n\n Terminator: The Dark Fate merupakan film terbaru Tim Miller, sutradara asal Amerika Serikat yang sukses bersama Deadpool (2016). \n\n</item>
+<item>Film besutan sutradara Elizabeth Banks ini masih mengangkat kisah tentang tiga wanita tangguh yang menjadi agen detektif swasta. \n\n Menjadi lanjutan dari Charlies Angels (2000) dan Charlies Angels: Full Throttle (2003) yang dibintangi Drew Barrymore, Lucy Liu, dan Cameron Diaz, Charlies Angels versi 2019 ini terasa lebih segar. \n\n Kini, Kristen Stewart (Sabina Wilson), Naomi Scott (Elena Houghlin), dan Ella Balinska (Jane Kano) yang menjadi generasi baru Angels. \n\n Charlies Angels yang dikenal selalu memberikan pengamanan dan kemampuan investigasi terbaik bagi para kliennya, mendapat tugas baru untuk membantu Townsend Agency yang sedang memperluas jangkauannya secara internasional. \n\n Tiga agen wanita paling cerdas, berani, dan terlatih dari berbagai belahan bumi disatukan dalam satu tim Angels yang dipimpin Bosley untuk menangani itu. \n\n Sampai suatu ketika, seorang teknisi sistem membongkar adanya ancaman dari sebuah teknologi berbahaya, para Angels pun dipanggil mempertaruhkan nyawa mereka untuk menyelamatkan dunia. \n\n Nuansa laga aksi yang dibalut komedi para Angels menjadikan film berdurasi 1 jam 58 menit tak membuat penonton jenuh. Friksi antara Bosley baru yang diperankan oleh Elizabeth Banks dengan John Bosley yang diperankan Patrick Stewart menjadi cerita menarik tersendiri. \n\n</item>
+<!--        <item>Film besutan sutradara Elizabeth Banks ini masih mengangkat kisah tentang tiga wanita tangguh yang menjadi agen detektif swasta. \n\n </item>-->
+</string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>

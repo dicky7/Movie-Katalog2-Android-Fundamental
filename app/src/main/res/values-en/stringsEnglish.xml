@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">MovieKatalog2</string>
+
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="tab_text_1">Movies</string>
+        <string name="tab_text_2">Tv Shows</string>
+        <string name="This_is_tab">This is Tab</string>
+        <string name="name_movie">Movie Tittle</string>
+        <string name="desc" translatable="false">Movie Description</string>
+        <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+        <string name="_8">8</string>
+        <string name="judul">Tittle</string>
+        <string name="txt_Genre">Genre</string>
+        <string name="txt_rating">Rating</string>
+        <string name="txt_sinposis">Synopsis</string>
+        <string name="change_language_settings">Change Language Setting</string>
+
+        <string-array name="data_name">
+            <item>Sky Castle</item>
+            <item>Arthdal Chronicles</item>
+            <item>Vagabond</item>
+            <item>When The Camellia Blooms</item>
+            <item>Hotel Del Luna</item>
+            <item>Search: WWW</item>
+            <item>The Fiery Priest</item>
+            <item>Kingdom</item>
+            <item>Chief of Staff 1 dan 2</item>
+            <item>Romance is a Bonus Book</item>
+        </string-array>
+
+        <string-array name="data_genre">
+            <item>Drama</item>
+            <item>Fantasy,Romance</item>
+            <item>Spy,Thriller</item>
+            <item>Romantic Comendy</item>
+            <item>Romantic Romance</item>
+            <item>Romance</item>
+            <item>Comedy</item>
+            <item>Thriller,Horror</item>
+            <item>Political Drama</item>
+            <item>Romantic Comedy</item>
+        </string-array>
+
+        <string-array name="data_rating">
+            <item>8.8</item>
+            <item>7.7</item>
+            <item>8.7</item>
+            <item>8.0</item>
+            <item>8.4</item>
+            <item>8.7</item>
+            <item>8.6</item>
+            <item>8.2</item>
+            <item>8.3</item>
+            <item>8.7</item>
+
+        </string-array>
+
+
+        <string-array name="data_desc">
+            <item>There are many dramas about middle school students, but only a few have overcome the burden of Korean students in interesting ways like Sky Castle. \n\n The drama places several rich families under a microscope, revealing all the complex facades and schemes they have built to ensure they never lose face by requiring their children to enter one of the most prestigious universities. While many of us may be far from the world the elites, you dont need to be rich to understand how trapped the characters in "SKY Castle", the slaves of materialistic and majestic life where under almost every action lies an ulterior motive.</item>
+            <item>Arthdal ​​Chronicles is located in the mythical city of Arthdal, the capital of the kingdom of Gojoseon. \n\n This tells the story of the heroes who made their own legends in the ancient land called Arth. \n\n Song Joong Ki plays Eun Seom, son of noble Asahon (Choo Ja Hyun) and a member of the Wahan tribe. Kim Ji Won will play Tan Ya, the guard and shaman of the Wahan tribe. \n\n Meanwhile, Jang Dong Gun will play the role of Ta Gon, the son of a tribal leader.</item>
+            <item>Vagabond adalah drama mata-mata yang menceritakan tentang seorang pria yang mengungkap kebenaran gelap dan korupsi tersembunyi di balik kecelakaan pesawat misterius. \n\n Lee Seung Gi memainkan peran Cha Dal Gun, seorang stuntman yang mengagumi Jackie Chan dan mimpi mendominasi industri film aksi. \n\n Suzy akan membintangi drama sebagai Go Hae Ri, seorang agen rahasia yang bekerja menyamar untuk Kedutaan Besar Korea di Maroko. \n\n Keduanya secara tak terduga dipertemukan setelah sebuah kecelakaan pesawat, dan mereka bersatu untuk mengungkap kebenaran tersembunyi.</item>
+            <item>Vagabond is a spy drama that tells the story of a man who uncovered the dark truth and corruption hidden behind a mysterious plane crash. \n\n Lee Seung Gi plays the role of Cha Dal Gun, a stuntman who admires Jackie Chan and dreams of dominating the action film industry. \n\n Suzy will star in the drama as Go Hae Ri, a secret agent who works undercover for the Korean Embassy in Morocco. \n\n The two unexpectedly reunited after a plane crash, and they unite to uncover hidden truths. \n\n </item>
+            <item>A romantic, horror and fantasy Bergenre, Hotel Del Luna tells the story of an elite hotel entrepreneur named Goo Chan Sung (played by Yeo Jin Goo) who finally runs a haunted hotel. This haunted hotel is owned by Jang Man Wol (played by IU) who is beautiful but bad-tempered. Jang Man Wol is living under a curse as a punishment for his past mistakes. \n\n </item>
+            <item>Search: WWW is a romantic drama that tells the love lives of three career women who work in Koreas top search engine company. \ n \ n This is Im Soo Jungs comeback drama after 2 years. \ n Im Soo Jung will play Bae Ta Mi, a strategic manager at Koreas No.1 Unicorn portal site. \ n While Jang Ki Yong will play Park Mo Gun, a genius composer. \ n \ n This romantic drama succeeded in making the audience swept away with the intelligence and chemistry of the players to be rewarded with a high rating of 4 percent for the last episode.</item>
+            <item>The Fiery Priest tells the story of an angry priest and a weak detective who joins to solve the murder case of an old priest. The drama was written by writer Park Jae Bum who wrote dramas such as Chief Kim and Good Doctor, and was directed by Lee Myung Woo who directed dramas such as Whisper and Punch. Kim Nam Gil plays Catholic priest Kim Hae Il, who has Angry Disorders, Obsessive Disorders. -Compulsive, and Bitter Post-Traumatic Disorders. His cynical and pessimistic way of speaking usually numbs the people around him. However, his analytical skills, insights, and evaluations of fellow humans are very sharp and accurate. Kim Hae Il is actually a top government special agent. He was on the anti-terrorism special forces team of the National Intelligence Service 10 years ago. Kim Sung Kyun will play Goo Dae Young, a detective who works at the Gudam Police Station Violence Crimes Department. He doesnt want to look weak, so he likes to bully. Woo Dae Young is a soft-hearted man who likes to cry. Although once firm, he became a coward after his colleague died three years ago. Honey Lee will play the role of prosecutor Park Kyung Sun in the Seoul Central District Prosecutors Office. She is famous for being obedient, beautiful and smart.</item>
+            <item>Kingdom is a 6-episode mystery thriller set in the Joseon era. Set in the era of the kingdom, Kingdom tells the story of a prince who is trying to save people from epidemics or plague zombies that plague the palace and its surroundings. This series has finished shooting for the second season, which will premiere in 2020.</item>
+            <item>The drama, which premiered on June 14, 2019, tells the story of politicians and shows the cunning and dangerous competition that takes place far from the public eye. The Chief of Staff stars Lee Jung Jae, Shin Min Ah, Jung Jin Young, Kim Kap Soo, Jung Woong In, Lee Elijah, and Kim Dong Jun. They received much praise for their realistic portrayal of politics. Many viewers expressed their disappointment that the drama ended in just 10 episodes. Not surprisingly, Chief of Staff 2 that aired in November 2019 was immediately flooded with high enthusiasm which ended with a satisfactory rating of 5.3 percent.</item>
+            <item>Romance is a Bonus Book or Romance Supplement takes place in a publishing company and tells the warm story of those who make books. The audiences anticipation of this drama is quite high because it will be Lee Na Youngs comeback drama in nine years and Lee Jong Suks last drama before the military. Kang Dan Yi is a talented and famous copywriter but is often ignored. Cha Eun Ho is the youngest editor-in-chief of the publishing company Gyeo Ru and a literary world idol. The seeds of love begin to grow when Kang Dan Yi tries to get a second chance in his career.</item>
+        </string-array>
+
+        <array name="data_photto">
+            <item>@drawable/sky_castle</item>
+            <item>@drawable/arthda_chronicles</item>
+            <item>@drawable/vagabond</item>
+            <item>@drawable/camellia_blooms</item>
+            <item>@drawable/hotel</item>
+            <item>@drawable/www</item>
+            <item>@drawable/fiery</item>
+            <item>@drawable/kingdom</item>
+            <item>@drawable/chief</item>
+            <item>@drawable/romance_is</item>
+        </array>
+
+        <array name="data_photo_movie">
+            <item>@drawable/captainmarvel</item>
+            <item>@drawable/endgame</item>
+            <item>@drawable/toys</item>
+            <item>@drawable/lion</item>
+            <item>@drawable/spiderman</item>
+            <item>@drawable/aladdin</item>
+            <item>@drawable/godzila</item>
+            <item>@drawable/doctor</item>
+            <item>@drawable/terminator</item>
+            <item>@drawable/charlie_angels</item>
+
+        </array>
+
+
+        <string-array name="data_nama_movie">
+            <item>Captain Marvel</item>
+            <item>Avangers End Game</item>
+            <item>Toy Story 4</item>
+            <item>The Lion King</item>
+            <item>Spider Man Far From Home </item>
+            <item>Aladdin</item>
+            <item>Godzilla: King of the Monsters</item>
+            <item>Doctor Sleep</item>
+            <item>Terminator: Dark Fate</item>
+            <item>Charlies Angels</item>
+        </string-array>
+
+        <string-array name="data_genre_movie">
+            <item>Action, SuperHero, Fantasy</item>
+            <item>Action, Adventure,Science Fiction</item>
+            <item>Animation,Adventure,Comedy,Fantasy</item>
+            <item>Animation,Adventure,Drama,Musical</item>
+            <item>Action,Adventure,Sci-Fi</item>
+            <item>Adventure,Fantasy,Musical,Romance</item>
+            <item>Action,Adventure,Fantasy,Sci-Fi</item>
+            <item>Drama,Fantasy,Horror,Thriller</item>
+            <item>Action,Adventure,Sci-Fi</item>
+            <item>Action,Adventure,Comedy</item>
+        </string-array>
+
+        <string-array name="data_ratig_movie">
+            <item>7.8</item>
+            <item>8.5</item>
+            <item>7.9</item>
+            <item>6.9</item>
+            <item>7.6</item>
+            <item>7.0</item>
+            <item>6.1</item>
+            <item>7.5</item>
+            <item>6.3</item>
+            <item>4.2</item>
+
+        </string-array>
+
+
+        <string-array name="data_desc_movie">
+            <item>In 1995, Carol Danvers (Brie Larson), had a major accident. However, destiny is like changing his life. Out of nowhere, then Carol Danvers then gained superpowers. \n\n The power that makes his destiny is no longer just a human being. It was fate that brought Carol and Nick Fury together. However, not everything has to go easy. \n\n Carol has to meet with surprising things. So what exactly is the danger faced by Carol Danvers aka Captain Marvel in this film? Threats from earth or precisely attacks from space? \n\n What danger will Carol Denver actually face? What is the meaning of the power it has for the Avengers superheroes who are now living in the future. \n\nWhat is the relationship between Captain Marvel aka Carol Denver with the story of the Avengers film: Endgame? \n\n To answer your curiosity, first watch the Captain Marvel movie that will air in Indonesian theaters starting March 6, 2019. \n\n</item>
+            <item>Marvel Studio and Walt Disney Pictures will release Avengers Film: Endgame. The film that presents almost all of the Avengers will be shown in all theaters in the country starting April 24, 2019. \n\n After the event that wiped out half of the Earths population in Avengers: Infinity War (2018), the story will continue when the remaining Avengers gather once again to fight Thanos (Josh Brolin). \n\n But Sadness, despair and helplessness still envelop superheroes. Avengers Trailer: Endgame is dominated by a portrait of "destruction" on earth after Thanos wiped out half the worlds population. \n\n The color of white hitm dominates the film footage made by Joe and Anthony Russo. In the Avengers: Endgame synopsis, the Avengers are also trying to restore the order of the universe. \n\n The remaining Avengers such as Steve Rogers / Captain America (Chris Evans), Natasha Romanoff / Black Widow (Scarlett Johansson) to Thor (Chris Hemsworth) get help from Carol Danvers / Captain Marvel (Brie Larson). \n\n Hawkeye (Jeremy Renner) who was absent during Infinity War will also appear on Avengers: Endgame with its flagship bow and arrow. Scott Lang / Ant-Man (Paul Rudd) was present to help the remaining Avengers to fight Thanos. \n\n Marvel Studio will present the Avengers battle with Thanos for three hours. Quoted from the Hollywood Reporter, the duration makes it the longest superhero film produced by Marvel Cinematic Universe (MCU). \n\n Unfortunately, Avengers: Endgame will be the last cameo for the creators of superheroes, Stan Lee. This was revealed by Endgame director, Joe Russo. Endgame is considered as the right film to be Lees last cameo. "I believe Lee s last cameo was Endgame," Russo said. \n\n</item>
+            <item>The adventures of Woody (Tom Hanks), Buzz Light year (Tim Allen), and his toy gang are still continuing. In Toy Story 4 that airs in Indonesian cinemas today Friday (6/21/2019), Woody and his friends will be reunited with friends and new places. \n\n The 1 hour 40 minute film directed by Josh Cooley is here to answer fans waiting for nine years. The sequel to Toy Story is a flagship animation from Disney Pixar that has existed from 20 years ago. \n\n In the Toy Story 4 trailer, Woody introduces Forky as Bonnies new toy and how important Forky (Tony Hale) is to Bonnie. Woody told Forky who felt inferior among the other toys, he must be proud to live as a toy. \n\n You will make a memory that you will remember for the rest of your life, "Woody said.  \n\n Reported by Variety, on the family trip Bonnie brought all her toys, Forky, who felt she was not a toy, then ran away. new Woody and the toys in Toy Story 4.  \n\n Woody will meet an old friend who has long been lost Bo Peep (Annie Pots). Bo Peep tries to convince Woody to leave Bonnie, but Woody tries to convince himself.  \n\n "I was made to help this child. I dont remember it being this difficult," Woody said. \n\n When Woody and Bo discussed the past, they began to realize their world was completely different in terms of their principles and desires for life as toys. \n\n The adventures of Woody and Bo, as well as Woodys friends journey in finding them are at the heart of the story in this film. \n\n The Toy Story 4 voiceover was performed by Tom Hanks as Woody, Tim Allen as Buzz Lightyear, Annie Potts as Bo Peep, Joa n Cusack as Jessie, Blake Clark as Slinky Dog, Wallace Shawn as Rez, Keegan Michael Key as Ducky, Jordan Peele as Bunny, and Keanu Reeves as Duke Caboom. \n\n</item>
+            <item>The film, directed by Jon Favreau, tells the story of the journey of a small lion named Simba who was born as the next king to replace Mufasa, his father. Simba really idolizes his father. \n\ n However, not all animals celebrate the birth of Simba. Scar, Mufasas brother, has his own plan. He planned a battle over the Stone of Honor by using betrayal, vandalism, tragedy and drama which made Simba have to leave home and be isolated. \n\n With the help of a new pair of friends, Simba must find a way to grow and reclaim what is rightfully his. \n\n Quoted from ScreenRant, this film is Disneys way of paying homage to its predecessor film, the animated version of The Lion King. \n\n Quoted from ScreenRant, this film is Disneys way of paying homage to its predecessor film, the animated version of The Lion King. \n\n Disney wants to present the best quality for this live action film including the selection of directors, animation technology, and voice actors. \n\n The film fillers are Donald Glover as Simba, Beyonce Knowles-Carter as Nala, James Earl Jones as Mufasa, Chiewetel Ejiofor as Scar, Seth Rogen as Pumba, and Billy Eichner as Timon. \n\n This film will use advanced virtual reality technology. The animator team who worked behind this film said they were able to eliminate the disruptive effect in each scene. In fact, Favreau made the exact same set of tracks as his animated film released in 1994. \n\n The study he conducted was not only a matter of background, but also animation and lighting. As a result, making settings and animations look as majestic and real as they were released in the trailer recently. \n\n The study he conducted was not only a matter of background, but also animation and lighting. As a result, making settings and animations look as majestic and real as they were released in the trailer recently. "Its very nice to be a part of this, where we can say, Hey, lets see what the shape of the leaves is, or how the water moves, or the way the wind blows the grass and makes a very beautiful picture," Favreau said . \n\n</item>
+            <item>Since joining the Avengers and being involved at the time of Avengers: Endgame, Spider-Man has faced new threats in a changing world. \n\n In this film made by Jon Watts, Spider-Man or Peter Parker (Tom Holland) are busy helping the New York police quell crime. \n\n After helping the New York police, Peter Parker plans to take a vacation with friends to Europe. \n\n Parker decided not to bring his costume when he traveled with his school friends, MJ (Zendaya), Ned (Jacob Batalon), Betty (Rice Angourie) and Flash (Tony Revolori). \n\n Vacation Parker and friends are "damaged" by the threat of terror that attacks cities on earth. Nick Fury (Samuel L. Jackson) tries to contact Parker to provide information related to new threats in Europe, unfortunately Parker does not want to respond to calls from Nick Fury. \n\n Even though Nick Fury had explained about the dangers and threats that lurked the earth, Parker still insisted not to get involved. \n\n In addition to the adventures of this spider man on the Blue Continent, Spider-Man: Far From also featured Parker who harbored longing for the figure of Tony Stark or Iron Man, in the trailer uploaded by Sony Picture Entertainment. \n\n Duration of 130 minutes, Spider-Man: Far From Home will be starring Tom Holland, Samuel L. Jackson, Zendaya, Cobie Smulders. \n\n</item>
+            <item>The 2019 film Aladdin revolves around a street child who lives with his monkey friend Abu, who falls in love with a royal princess named Jasmine. because of differences in kastah and treasure he also had the chance to get a rejection, not despair, aladdin was looking for ways that he could become a prince. \n\n Luck was on Aladdins side, yes, he got a magic lamp in which there was a djinn that could grant all requests. Yes, use the magic lamp to turn her into a prince to win the heart of Princess Jasmine. but yes also must keep the lamp from the hands of the evil Vizier, Jafar and parrots who want to control the kingdom of Agrabah and amazing power. \n\n</item>
+            <item>When the Earth suffered a major disaster, scientists believed that the condition of the earth could be saved by a giant creature called the Titans \n\n When the Earth suffered a major disaster, scientists believed that the condition of the earth could be saved by a giant creature called the Titans. \n\n Emma Russell (Vera Farmiga) is a paleobiologist working for the crypto-zoological Monarch agency. He believes that humans and Titans can coexist peacefully. \n\n Now the task is to find Titans who can help the Earth, because not all Titans can heal, some can make it worse and more damaging. \n\n But on an unknown island and far from satellite surveillance, Monarchs geography research agency had to deal with a group of god-sized monsters, namely Kong, Godzilla and Ghidorah. \n\n In this one session, Kong was a giant monster that first collided with the researchers planes. In his first film Kong defeated the biggest Skullcrawler and saved the explorers and other residents of Skull Island. \n\n In the sequel, Godzilla 2, agent Monarch is then brought together by another ancient monster, the three-headed King Ghidorah. \n\n Raja Ghidorah is Godzillas mortal enemy. \n\n When these super-ancient species, which are considered mere myths, revive, they all compete for supremacy, making human existence highly dependent on balance. \n\n Will the humans be able to save themselves from the attacks of ancient monsters? \n\n</item>
+            <item>Doctor Sleep will revolve around the adult Danny Torrance who is struggling to find peace. Previously he was traumatized when he saw his father go crazy after the incident in his first film. \n\n His struggle for calm became complicated and sinister when he met Abra, a woman who worked in a hospital. Abra is brave and has a talent called "ray". While Danny himself has psychic powers but also becomes a drunkard like his father. \n\n They will both face Rose the Hat, the merciless antagonist role, along with his followers, The True Knot. This battle between life and death urges Danny to summon the hidden power from within him which at the same time forces him to face memories of his terrible past. \n\n The film is played by Ewan McGregor, Rebecca Ferguson and Kyliegh Curran. According to Mike Flanagan as the director, this film is called not only to restore the horror of the first film, but also the iconic moments in the film. "We use a lot of lessons Kubrick taught us about how to make psychological thrillers," Mike said. "In a way that is more frightening and tense atmosphere than what we have often seen in a number of other horror films," he said again. \n\n</item>
+            <item>Hollywood Film Terminator: Dark Fate is the latest sequel to the Terminator franchise. The film focuses on the efforts of a group of women to defeat killer robots and save the future of humanity. \n\n Senior actress Linda Hamilton still plays Sarah Connor. Business Insider proclaimed, Hamilton repeated his role as in previous Terminator films. He returned to acting with Arnold Schwarzenegger, who became a Terminator in almost all franchises. \n\n The setting of the time of Dark Fate was taken two decades after Sarah Connor prevented Judment Day, changed the future, and rewritten the fate of mankind. Dani Ramos (Natalia Reyes) lives a simple life in Mexico with his brother (Diego Boneta) and his father. \n n Danis life went well until a very sophisticated Rev-9 (Gabriel Luna) Terminator series arrived and came from the future to kill her. \n\n Danis survival depends on her strength with Grace (Mackenzie Davis), Grace, a supermen who was also sent from the future and Sarah Connor (Linda Hamilton). Both of them helped Dani against the Terminator. \n\n Rev 9 was sent to the past to stop humans from rising up and taking over Skynet. Rev 9 looks like a combination of T-800 and T-1000, as seen in The Terminator and Terminator 2: Judgment Day. But strangely, Rev 9 is more similar to T-X, which was last seen in Terminator: Rise of the Machines. \n\n Rev 9 is able to change its body shape so easily. Similar to the type of T-1000, Rev 9s body can recover quickly despite being hit by bullets and sharp weapons many times, similar to splitting mercury. \n\n However, unlike other types of terminators, Rev 9 can create a clone of itself in an instant. When Rev-9 ruthlessly destroys everything and everyone in its path to hunt Dani, the three then hope for the T-800 (Arnold Schwarzenegger). Terminator from Sarahs past who might be their best and last hope. \n\n Terminator: The Dark Fate is the latest film by Tim Miller, a successful American director with Deadpool (2016). \n\n</item>
+            <item>The film made by director Elizabeth Banks still lifts the story of three tough women who became private detective agents. \n\n Being a continuation of Charlies Angels (2000) and Charlies Angels: Full Throttle (2003) starring Drew Barrymore, Lucy Liu, and Cameron Diaz, the 2019 version of Charlies Angels feels fresher. \n\n Now, Kristen Stewart (Sabina Wilson), Naomi Scott (Elena Houghlin), and Ella Balinska (Jane Kano) are the new generation of Angels. \n\n Charlies Angels, known for always providing the best security and investigative capabilities for his clients, has a new assignment to help the Townsend Agency which is expanding its reach internationally. \n\n Three of the smartest, bravest, and most trained female agents from different parts of the world are put together in an Angels team led by Bosley to handle it. \n\n Until one day, a system technician dismantled the threat of a dangerous technology, the Angels were called to risk their lives to save the world. \n\n The nuances of the action match wrapped in the comedy Angels made the 1 hour 58 minute film not make the audience bored. The friction between the new Bosley played by Elizabeth Banks and John Bosley, played by Patrick Stewart, is an interesting story in itself. \n\n</item>
+        </string-array>
+
+        <!-- TODO: Remove or change this placeholder text -->
+
+
+
+</resources>
